@@ -9,6 +9,4 @@ Ceci est la 1ère publication à titre d'exemple.
 
 Pour plus d'information consultez le [`README`](https://framagit.org/hugolidaires/site-template/-/blob/stable/README.md) du projet.
 
-
-
 ![TextAlt](/fichiers/articles/exemple-de-publication/image-2_ruvzx5n.original.png "ImageTitle")
