@@ -7,7 +7,7 @@ pygmentsCodefencesGuessSyntax = true
 pygmentsCodeFences = true
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
-
+theme = "beautifulhugo"
 title = "Hugolidaires, un modèle de site"
 
 
