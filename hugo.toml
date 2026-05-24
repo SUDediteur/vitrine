@@ -77,7 +77,3 @@ url = "page/contact"
 
 [markup.goldmark.renderer]
 unsafe = true
-
-[module]
-[[module.imports]]
-path = "gitlab.com/hamlet580-group/hamlet580-project-engine"
