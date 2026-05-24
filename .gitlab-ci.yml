@@ -1,0 +1,4 @@
+include:
+  - project: 'hamlet580-group/hamlet580-project-engine'
+    ref: main
+    file: '/gitlab-ci.yml'
