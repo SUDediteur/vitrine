@@ -1,3 +1,9 @@
+name: Site build
+
+on:
+  push:
+    branches: [main]
+
 jobs:
   build:
     uses: SUDediteur/usine/.github/workflows/build.yml@main
