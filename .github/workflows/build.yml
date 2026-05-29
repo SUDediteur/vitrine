@@ -1,3 +1,3 @@
 jobs:
   build:
-    uses: SUDediteur/usine/build.yml@main
+    uses: SUDediteur/usine/.github/workflows/build.yml@main
