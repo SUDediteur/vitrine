@@ -1,4 +1,4 @@
-name: Site build
+name: Processus de construction et de publication du site web
 
 on:
   push:
