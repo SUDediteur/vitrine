@@ -16,3 +16,4 @@ permissions:
 jobs:
   build:
     uses: SUDediteur/usine/.github/workflows/build.yml@main
+    secrets: inherit
