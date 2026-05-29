@@ -2,13 +2,16 @@ name: Processus de construction et de publication du site web
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
+      - cms/**
   workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
+  statuses: write
 
 jobs:
   build:
